@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pandas
+openpyxl
+pydantic
+numpy
+opencv-python
+ultralytics
+scipy
